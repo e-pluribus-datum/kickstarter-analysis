@@ -9,10 +9,10 @@ This report is to analyze for Louise the outcomes of theater Kickstarter campaig
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](./resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 

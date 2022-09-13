@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This report is to analyze for Louise the outcomes of theater Kickstarter campaigns based on launch date or funding goal.
+This report is to analyze the outcomes of theater Kickstarter campaigns based on launch date or funding goal.
 
 ## Analysis and Challenges
 
@@ -13,10 +13,6 @@ This report is to analyze for Louise the outcomes of theater Kickstarter campaig
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](./resources/Outcomes_vs_Goals.png)
-
-### Challenges and Difficulties Encountered
-
-There were no difficulties or errors to report.
 
 ## Results
 
